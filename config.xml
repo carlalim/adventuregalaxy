@@ -30,9 +30,6 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
-	
-	<gap:plugin name="facebook-login" source="npm" >
-	</gap:plugin>
 
 
 	<engine name="ios" />
