@@ -97,7 +97,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "1.0.0.2",
+        "appVersion_": "1.0.0.4",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -133,7 +133,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "1.0.0.2",
+        "appVersion_": "1.0.0.4",
         "appVersionCode_": "1"
       },
       "Windows8": {
@@ -167,7 +167,7 @@
         "icons_": [],
         "splashes_": [],
 		"addlPermissions_": "",
-        "appVersion_": "1.0.0.2",
+        "appVersion_": "1.0.0.4",
         "appVersionCode_": "1"
       },
       "WebApp": {
@@ -178,7 +178,7 @@
         "isActive_": false,
         "appName_": "Adventure Galaxy",
         "appID_": "br.com.abtechnology",
-        "appVersion_": "1.0.0.2"
+        "appVersion_": "1.0.0.4"
       },
       "Chrome": {
         "platform_": "chromeos",
@@ -188,7 +188,7 @@
         "isActive_": false,
         "appName_": "Adventure Galaxy",
         "appID_": "br.com.abtechnology",
-        "appVersion_": "1.0.0.2"
+        "appVersion_": "1.0.0.4"
       }
     }
   }
