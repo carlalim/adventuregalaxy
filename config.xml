@@ -31,9 +31,7 @@
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
 	
-	<gap:plugin name="cordova-plugin-facebook" source="npm" >
-		<param name="FACEBOOK_APP_ID" value="197628104165575" />
-		<param name="FACEBOOK_DISPLAY_NAME" value="Adventure Galaxy" />
+	<gap:plugin name="facebook-login" source="npm" >
 	</gap:plugin>
 
 
